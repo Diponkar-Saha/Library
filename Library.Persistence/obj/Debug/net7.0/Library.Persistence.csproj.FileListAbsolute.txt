@@ -1,0 +1,17 @@
+G:\asp.et\Code\aspnet-b8-diponkar-saha\src\Library\Library\Library.Persistence\bin\Debug\net7.0\Library.Persistence.deps.json
+G:\asp.et\Code\aspnet-b8-diponkar-saha\src\Library\Library\Library.Persistence\bin\Debug\net7.0\Library.Persistence.dll
+G:\asp.et\Code\aspnet-b8-diponkar-saha\src\Library\Library\Library.Persistence\bin\Debug\net7.0\Library.Persistence.pdb
+G:\asp.et\Code\aspnet-b8-diponkar-saha\src\Library\Library\Library.Persistence\bin\Debug\net7.0\Library.Application.dll
+G:\asp.et\Code\aspnet-b8-diponkar-saha\src\Library\Library\Library.Persistence\bin\Debug\net7.0\Library.Domain.dll
+G:\asp.et\Code\aspnet-b8-diponkar-saha\src\Library\Library\Library.Persistence\bin\Debug\net7.0\Library.Application.pdb
+G:\asp.et\Code\aspnet-b8-diponkar-saha\src\Library\Library\Library.Persistence\bin\Debug\net7.0\Library.Domain.pdb
+G:\asp.et\Code\aspnet-b8-diponkar-saha\src\Library\Library\Library.Persistence\obj\Debug\net7.0\Library.Persistence.csproj.AssemblyReference.cache
+G:\asp.et\Code\aspnet-b8-diponkar-saha\src\Library\Library\Library.Persistence\obj\Debug\net7.0\Library.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+G:\asp.et\Code\aspnet-b8-diponkar-saha\src\Library\Library\Library.Persistence\obj\Debug\net7.0\Library.Persistence.AssemblyInfoInputs.cache
+G:\asp.et\Code\aspnet-b8-diponkar-saha\src\Library\Library\Library.Persistence\obj\Debug\net7.0\Library.Persistence.AssemblyInfo.cs
+G:\asp.et\Code\aspnet-b8-diponkar-saha\src\Library\Library\Library.Persistence\obj\Debug\net7.0\Library.Persistence.csproj.CoreCompileInputs.cache
+G:\asp.et\Code\aspnet-b8-diponkar-saha\src\Library\Library\Library.Persistence\obj\Debug\net7.0\Library.Persistence.csproj.CopyComplete
+G:\asp.et\Code\aspnet-b8-diponkar-saha\src\Library\Library\Library.Persistence\obj\Debug\net7.0\Library.Persistence.dll
+G:\asp.et\Code\aspnet-b8-diponkar-saha\src\Library\Library\Library.Persistence\obj\Debug\net7.0\refint\Library.Persistence.dll
+G:\asp.et\Code\aspnet-b8-diponkar-saha\src\Library\Library\Library.Persistence\obj\Debug\net7.0\Library.Persistence.pdb
+G:\asp.et\Code\aspnet-b8-diponkar-saha\src\Library\Library\Library.Persistence\obj\Debug\net7.0\ref\Library.Persistence.dll

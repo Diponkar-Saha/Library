@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "b650B0+oCF8lRCkHLZQAd1YK7kXNulafrm0fdVFHat/irxc99FwN8rfhgTx5Gx3CQ+C2HZicHLG2UvTThMcfqg==",
+  "success": true,
+  "projectFilePath": "G:\\asp.et\\Code\\aspnet-b8-diponkar-saha\\src\\Library\\Library\\Infrastructure\\Library.Infrastructure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\disah\\.nuget\\packages\\autofac\\7.0.1\\autofac.7.0.1.nupkg.sha512",
+    "C:\\Users\\disah\\.nuget\\packages\\microsoft.aspnetcore.http.abstractions\\2.2.0\\microsoft.aspnetcore.http.abstractions.2.2.0.nupkg.sha512",
+    "C:\\Users\\disah\\.nuget\\packages\\microsoft.aspnetcore.http.features\\2.2.0\\microsoft.aspnetcore.http.features.2.2.0.nupkg.sha512",
+    "C:\\Users\\disah\\.nuget\\packages\\microsoft.extensions.primitives\\2.2.0\\microsoft.extensions.primitives.2.2.0.nupkg.sha512",
+    "C:\\Users\\disah\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.7.1\\system.diagnostics.diagnosticsource.4.7.1.nupkg.sha512",
+    "C:\\Users\\disah\\.nuget\\packages\\system.memory\\4.5.1\\system.memory.4.5.1.nupkg.sha512",
+    "C:\\Users\\disah\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.1\\system.runtime.compilerservices.unsafe.4.5.1.nupkg.sha512",
+    "C:\\Users\\disah\\.nuget\\packages\\system.text.encodings.web\\4.5.0\\system.text.encodings.web.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

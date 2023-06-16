@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "kPfwmrnK7fHqOMqyYg+A3YKFrTqcc2Y5P/lzIK4HrxWx3PuS502CjAENukMN7+hoDhCsmvtyYxX1LwErPklY/w==",
+  "success": true,
+  "projectFilePath": "G:\\asp.et\\Code\\aspnet-b8-diponkar-saha\\src\\Library\\Library\\Application\\Library.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\disah\\.nuget\\packages\\autofac\\7.0.1\\autofac.7.0.1.nupkg.sha512",
+    "C:\\Users\\disah\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.7.1\\system.diagnostics.diagnosticsource.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}
